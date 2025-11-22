@@ -157,6 +157,5 @@ print(response["answer"])
 ## 👨‍💻 Author
 
 **Sarthak Vijay**  
-Medical Chatbot – MCA Project
 
 ---
